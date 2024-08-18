@@ -1,6 +1,6 @@
 ## Live Demo
 
-![](https://github.com/mukilkarki/Fancy-Glowing-Button/blob/37ef883c26ac239c574a32b782d54e239ec5a35d/demo/demo.gif)
+![](https://github.com/mukilkarki/Rainbow-Credit-Card/blob/887297f345a295c24b040a76bb9f077c1a32a41a/demo/demo.jpg.jpg)
 
 ## Contact
 
